@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.Reverse a String: Write a program that takes a string as input and prints it in reverse.
 
 2.Palindrome Check: Create a program to determine whether a given string is a palindrome (reads the same forwards and backwards).
@@ -26,4 +27,34 @@
 
 14. Count Occurrences of a Character: Count how many times a specific character occurs in a string.
 
+=======
+1.Reverse a String: Write a program that takes a string as input and prints it in reverse.
+
+2.Palindrome Check: Create a program to determine whether a given string is a palindrome (reads the same forwards and backwards).
+
+3.Count Vowels and Consonants: Write a program to count the number of vowels and consonants in a string.
+
+4.Count Words in a String: Count the number of words in a given string. Words are separated by spaces.
+
+5.Find the Longest Word: Given a sentence, find the longest word in it.
+
+6.String Concatenation: Take two strings as input and concatenate them without using the + operator.
+
+7.Anagrams: Determine if two strings are anagrams of each other (contain the same characters but in a different order).
+
+8.Remove Duplicates: Write a program to remove duplicate characters from a string.
+
+9.String Comparison: Compare two strings and determine if they are equal, ignoring the case.
+
+10.Substring Check: Check if a string contains a particular substring.
+
+11.String Reversal without Special Characters: Reverse a string while keeping the position of special characters unchanged.
+
+12.Caesar Cipher: Implement a simple Caesar cipher, which shifts characters in a string by a specified number of positions.
+
+13.String Rotation: Determine if one string is a rotation of another (e.g., "waterbottle" is a rotation of "erbottlewat").
+
+14. Count Occurrences of a Character: Count how many times a specific character occurs in a string.
+
+>>>>>>> 9f6a58fa87af45e320a7ea767631df05ab33d66f
 15.String Compression: Compress a string by replacing consecutive characters with the character and the count of consecutive occurrences.
